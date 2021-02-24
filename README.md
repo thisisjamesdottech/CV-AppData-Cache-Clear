@@ -27,7 +27,7 @@ It is currently supported in Microsoft Windows 10, Microsoft Windows Server 2012
 This script may not work if:
 
 1. You do not have the necessary permissions to run PowerShell scripts on the machine you are attempting to execute this script from
-2. 2. The version of PowerShell on the system you are using to execute this script is older/not supporting the commands in this script
+2. The version of PowerShell on the system you are using to execute this script is older/not supporting the commands in this script
 3. You do not have the necessary permissions to run PowerShell scripts across your network
 
 If you run into issues outside of the above, you may need to review the specific errors and/or troubleshoot the errors with your server/systems/IT administrator.
